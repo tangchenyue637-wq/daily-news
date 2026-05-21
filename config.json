@@ -19,6 +19,10 @@
     ],
     "外汇财经": [
       "https://rsshub.app/fx678/kx"
+    ],
+    "财报公告": [
+      "https://rsshub.app/sec/press-releases",
+      "https://rsshub.app/cninfo/announcement"
     ]
   }
 }
