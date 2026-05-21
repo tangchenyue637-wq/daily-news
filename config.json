@@ -1,0 +1,18 @@
+{
+  "max_articles_per_source": 3,
+  "categories": {
+    "商业科技": [
+      "https://36kr.com/feed",
+      "https://www.huxiu.com/rss",
+      "https://www.ifanr.com/feed"
+    ],
+    "AI人工智能": [
+      "https://www.jiqizhixin.com/rss",
+      "https://www.infoq.cn/feed"
+    ],
+    "全球财经": [
+      "https://wallstreetcn.com/rss",
+      "https://rsshub.app/36kr/search/article/融资"
+    ]
+  }
+}
